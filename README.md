@@ -1,7 +1,7 @@
 # TDMA-MIMO
 In this illustration, we implement a TDMA-MIMO-based millimeter-wave radar raw data generation and signal processing stack that can support millimeter-wave radar platforms with different physical array element configurations and antenna emission sequences, as well as information estimation of moving targets, etc.
 
-In addition, we have interpreted this tutorial in Chinese, details of which can be found in the blog link: https://www.cnblogs.com/yuxuliang/p/MyRadar_7.html
+In addition, we have interpreted this tutorial in Chinese, details of which can be found in the blog link: https://www.cnblogs.com/XL2COWARD/p/MyRadar_7.html
 
 Readers are welcome to use this sample code and to communicate with us. We also hope that readers will cite our work when using our code, and we will improve it as we go along.
 
